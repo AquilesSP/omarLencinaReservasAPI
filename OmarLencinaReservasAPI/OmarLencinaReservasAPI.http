@@ -1,0 +1,6 @@
+@OmarLencinaReservasAPI_HostAddress = http://localhost:5157
+
+GET {{OmarLencinaReservasAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
